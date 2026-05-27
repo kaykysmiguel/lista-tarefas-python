@@ -33,13 +33,5 @@ while True:
         print("Sistema encerrado")
         break
 
-else: 
-    print("Opção invalida")
-
-
-
-
-
-
-
-
+    else: 
+        print("Opção invalida")
